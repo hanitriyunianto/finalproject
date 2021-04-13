@@ -1,4 +1,4 @@
-Practice HA Swarm and Docker Compose on GCP
+![alt text](https://raw.githubusercontent.com/jitsi/docker-jitsi-meet/master/resources/jitsi-docker.png)
 
 Quick start
 -------------------
