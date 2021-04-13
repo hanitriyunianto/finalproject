@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/jitsi/docker-jitsi-meet/master/resources/jitsi-docker.png)
+![alt text](https://github.com/hanitriyunianto/finalproject/blob/master/docker.png)
 
 Quick start
 -------------------
